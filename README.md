@@ -26,10 +26,10 @@ Hemos optado por la **BNB Smart Chain (BSC)** debido a su escalabilidad y bajas 
 | **Nombre Oficial** | PANGA EVOLUTION |
 | **Símbolo de Ticket** | $PANGA |
 | **Decimales** | 18 |
-| **Suministro Total** | 1,000,000 $PANGA (Escasez Programada) |
+| **Suministro Total** | 90,000.00 $PANGA (Escasez Asegurada) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
 | **Contrato Inteligente** | `0xef516ded4cca45207d21056faa1910c2930c96b5` |
-
+| **Quemados el10% de fichas**| `0x38e2f9e7059e9463d69fd926f0ae1d9c8de5bed3dda265898bcb8f52e0cb4853` |
 ---
 
 ### 🛠️ Ecosistema Activo: ZAARD Arcade & Web3
