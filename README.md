@@ -1,3 +1,5 @@
+![Panga Evolution - The Dragon Effect](https://raw.githubusercontent.com/figueredo56/PANGA_EVOLUTION_WHITEPAPER_2026.pdf/refs/heads/main/42%20sin%20t%C3%ADtulo_20260505005433.png)
+
 # 🐉 PANGA EVOLUTION: The Intelligent Utility Layer
 > **"La convergencia definitiva entre la Inteligencia Artificial y la eficiencia On-Chain. No es solo un token, es el siguiente paso en la evolución de ZAARD INNOVATION."**
 
