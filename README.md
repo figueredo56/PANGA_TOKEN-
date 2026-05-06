@@ -38,11 +38,24 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 [![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/3942beb83b23d0500f03eb894ce694db296c6ea3/CC_20260504_235336.png)](https://bscscan.com/token/0xef516ded4cca45207d21056faa1910c2930c96b5)
 
 ---
+---
 
-### 🌐 Canales de Información y Comunidad
-*   **Portal Principal:** [ZAARD Official Web](https://zaard.io)
-*   **Actualizaciones:** [X (Twitter)](https://x.com/ZaardOfficial)
-*   **Análisis:** [Panga Evolution en Binance Square](https://www.binance.com/es/feed/profile/pangaevolution)
+## 🌐 Our Official Digital Presence
+
+Stay connected with the true source of ZAARD innovation.
+
+* **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
+* **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
+* **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
+## 👤 Founder & Lead Developer
+Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaard-innovation-4a186b406)
+
+---
+
+> **⚠ CAUTION: Disclaimer ⚠**
+> This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
 
 ---
 
