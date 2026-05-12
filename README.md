@@ -1,3 +1,5 @@
+![logo panga](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/82f910fc52e0f4fd13302aaa5995bf0dafa186b0/CC_20260512_081723.svg)
+
 ![Panga Evolution - The Dragon Effect](https://raw.githubusercontent.com/figueredo56/PANGA_EVOLUTION_WHITEPAPER_2026.pdf/refs/heads/main/42%20sin%20t%C3%ADtulo_20260505005433.png)
 
 # 🐉 PANGA EVOLUTION: The Intelligent Utility Layer
