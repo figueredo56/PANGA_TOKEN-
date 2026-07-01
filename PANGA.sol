@@ -1,32 +1,51 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.19;
 
-contract PANGA {
-    string public name = "PANGA";
-        string public symbol = "PANGA";
-            uint8 public decimals = 18;
-                uint256 public totalSupply = 100000 * 10**18;
-                    mapping(address => uint256) public balanceOf;
-                        mapping(address => mapping(address => uint256)) public allowance;
-                            event Transfer(address indexed f, address indexed t, uint256 v);
-                                event Approval(address indexed o, address indexed s, uint256 v);
+contract PangaToken {
+    string public constant name = "PANGA";
+    string public constant symbol = "PANGA";
+    uint8 public constant decimals = 18;
+    // Total supply is 200 tokens with 18 decimal places
+    uint256 public constant totalSupply = 200 * 10**18;
 
-                                    constructor() { balanceOf[msg.sender] = totalSupply; emit Transfer(address(0), msg.sender, totalSupply); }
+    mapping(address => uint256) public balanceOf;
+    mapping(address => mapping(address => uint256)) public allowance;
 
-                                        function transfer(address t, uint256 v) public returns (bool) {
-                                                require(balanceOf[msg.sender] >= v, "Low Balance");
-                                                        balanceOf[msg.sender] -= v; balanceOf[t] += v;
-                                                                emit Transfer(msg.sender, t, v); return true;
-                                                                    }
+    event Transfer(address indexed from, address indexed to, uint256 value);
+    event Approval(address indexed owner, address indexed spender, uint256 value);
 
-                                                                        function approve(address s, uint256 v) public returns (bool) {
-                                                                                allowance[msg.sender][s] = v;
-                                                                                        emit Approval(msg.sender, s, v); return true;
-                                                                                            }
+    constructor() {
+        balanceOf[msg.sender] = totalSupply;
+        emit Transfer(address(0), msg.sender, totalSupply);
+    }
 
-                                                                                                function transferFrom(address f, address t, uint256 v) public returns (bool) {
-                                                                                                        require(v <= balanceOf[f] && v <= allowance[f][msg.sender], "Error");
-                                                                                                                balanceOf[f] -= v; balanceOf[t] += v; allowance[f][msg.sender] -= v;
-                                                                                                                        emit Transfer(f, t, v); return true;
-                                                                                                                            }
-                                                                                                                            }
+    function transfer(address to, uint256 value) public returns (bool success) {
+        require(to != address(0), "ERC20: transfer to the zero address");
+        require(balanceOf[msg.sender] >= value, "ERC20: transfer amount exceeds balance");
+        
+        balanceOf[msg.sender] -= value;
+        balanceOf[to] += value;
+        
+        emit Transfer(msg.sender, to, value);
+        return true;
+    }
+
+    function approve(address spender, uint256 value) public returns (bool success) {
+        allowance[msg.sender][spender] = value;
+        emit Approval(msg.sender, spender, value);
+        return true;
+    }
+
+    function transferFrom(address from, address to, uint256 value) public returns (bool success) {
+        require(to != address(0), "ERC20: transfer to the zero address");
+        require(value <= balanceOf[from], "ERC20: transfer amount exceeds balance");
+        require(value <= allowance[from][msg.sender], "ERC20: allowance exceeded");
+        
+        balanceOf[from] -= value;
+        balanceOf[to] += value;
+        allowance[from][msg.sender] -= value;
+        
+        emit Transfer(from, to, value);
+        return true;
+    }
+}
