@@ -1,6 +1,4 @@
-![logo panga](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/82f910fc52e0f4fd13302aaa5995bf0dafa186b0/CC_20260512_081723.svg)
 
-![Panga Evolution - The Dragon Effect](https://raw.githubusercontent.com/figueredo56/PANGA_EVOLUTION_WHITEPAPER_2026.pdf/refs/heads/main/42%20sin%20t%C3%ADtulo_20260505005433.png)
 
 # 🐉 PANGA EVOLUTION: The Intelligent Utility Layer
 > **"La convergencia definitiva entre la Inteligencia Artificial y la eficiencia On-Chain. No es solo un token, es el siguiente paso en la evolución de ZAARD INNOVATION."**
@@ -28,10 +26,10 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 | **Nombre Oficial** | PANGA EVOLUTION |
 | **Símbolo de Ticket** | $PANGA |
 | **Decimales** | 18 |
-| **Suministro Total** | 90,000.00 $PANGA (Escasez Asegurada) |
-| **Red de Operación** | Binance Smart Chain (BEP20) |
-| **Contrato Inteligente** | `0xef516ded4cca45207d21056faa1910c2930c96b5` |
-| **Quemados (10% tokens)** | `0x38e2f9e7059e9463d69fd926f0ae1d9c8de5bed3dda265898bcb8f52e0cb4853` |
+| **Suministro Total** | 200.00 $PANGA (Escasez Asegurada) |
+| **Red de Operación** | Binance Smart Chain (BEP19) |
+| **Contrato Inteligente** | `0x6be4672bbe065356b9beb661cf2a3356664653d0` |
+| **Quemados (10 tokens)** | `` |
 
 ---
 
@@ -42,7 +40,7 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 
 La arquitectura de nuestro ecosistema no se basa en activos aislados, sino en un sistema de **Simbiosis Financiera**. El intercambio entre PANGA y ZAARD es el mecanismo de balanceo que permite la captura de valor y la mitigación de riesgos sistémicos.
 
-#### 1. Sincronización de Precisión (9 Decimals Engine)
+#### 1. Sincronización de Precisión (18 Decimals Engine)
 A diferencia de los tokens estándar de la red BSC que operan con 18 decimales, tanto **PANGA** como **ZAARD** han sido programados con **9 decimales**. 
 * **Ventaja Técnica:** Esta paridad decimal elimina errores de redondeo y discrepancias en el cálculo de fracciones durante los swaps de alto volumen.
 * **Eficiencia:** Permite una ejecución de órdenes más limpia en los pools de liquidez internos, asegurando que el valor transferido sea exacto hasta la última unidad mínima.
