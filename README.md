@@ -41,14 +41,14 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 La arquitectura de nuestro ecosistema no se basa en activos aislados, sino en un sistema de **Simbiosis Financiera**. El intercambio entre PANGA y ZAARD es el mecanismo de balanceo que permite la captura de valor y la mitigación de riesgos sistémicos.
 
 #### 1. Sincronización de Precisión (18 Decimals Engine)
-A diferencia de los tokens estándar de la red BSC que operan con 18 decimales, tanto **PANGA** como **ZAARD** han sido programados con **9 decimales**. 
+A diferencia de los tokens estándar de la red BSC que operan con 18 decimales, tanto **PANGA** como **ZAARD** han sido programados con **18 decimales**. 
 * **Ventaja Técnica:** Esta paridad decimal elimina errores de redondeo y discrepancias en el cálculo de fracciones durante los swaps de alto volumen.
 * **Eficiencia:** Permite una ejecución de órdenes más limpia en los pools de liquidez internos, asegurando que el valor transferido sea exacto hasta la última unidad mínima.
 
 #### 2. Ciclo de Inyección de Fuerza (ZAARD → PANGA)
 Este movimiento representa la **Fase de Expansión**. 
 * Al mover capital desde ZAARD (el activo ancla) hacia PANGA (el activo místico), el usuario está activando el multiplicador de riqueza. 
-* **Estrategia:** Se utiliza ZAARD, cuya liquidez está blindada al 97.6% en Mudra, para adquirir PANGA en puntos de acumulación. Esto inyecta presión de compra orgánica en el motor de crecimiento sin depender de capital externo volátil.
+* **Estrategia:** Se utiliza ZAARD, cuya liquidez está blindada al 77.6% en Mudra, para adquirir PANGA en puntos de acumulación. Esto inyecta presión de compra orgánica en el motor de crecimiento sin depender de capital externo volátil.
 
 #### 3. Ciclo de Consolidación de Riqueza (PANGA → ZAARD)
 Este movimiento representa la **Fase de Blindaje**. 
