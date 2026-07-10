@@ -67,11 +67,10 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 
 ### 🛠️ Ecosistema Activo: PANGA en la Web3
 
-[![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/3942beb83b23d0500f03eb894ce694db296c6ea3/CC_20260504_235336.png)](https://bscscan.com/token/0x48a4898ead93de535a8e4fdfcf0bef1bc0b84444)
+[![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/refs/heads/main/CC_20260630_131234.png)
 
 ---
----
-
+-
 ## 🌐 Our Official Digital Presence
 
 Stay connected with the true source of ZAARD innovation.
