@@ -26,10 +26,10 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 | **Nombre Oficial** | PANGA EVOLUTION |
 | **Símbolo de Ticket** | $PANGA |
 | **Decimales** | 18 |
-| **Suministro Total** | 200.00 $PANGA (Escasez Asegurada) |
+| **Suministro Total** | 1.B $PANGA (DeFi) |
 | **Red de Operación** | Binance Smart Chain (BEP19) |
-| **Contrato Inteligente** | `0x6be4672bbe065356b9beb661cf2a3356664653d0` |
-| **Quemados (10 tokens)** | `` |
+| **Contrato Inteligente** | `0x48a4898ead93de535a8e4fdfcf0bef1bc0b84444` |
+
 
 ---
 
@@ -65,10 +65,9 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 
 ---
 
-
 ### 🛠️ Ecosistema Activo: PANGA en la Web3
 
-[![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/3942beb83b23d0500f03eb894ce694db296c6ea3/CC_20260504_235336.png)](https://bscscan.com/token/0xef516ded4cca45207d21056faa1910c2930c96b5)
+[![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/3942beb83b23d0500f03eb894ce694db296c6ea3/CC_20260504_235336.png)](https://bscscan.com/token/0x48a4898ead93de535a8e4fdfcf0bef1bc0b84444)
 
 ---
 ---
