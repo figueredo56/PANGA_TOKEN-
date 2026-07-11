@@ -26,10 +26,14 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 | **Nombre Oficial** | PANGA EVOLUTION |
 | **Símbolo de Ticket** | $PANGA |
 | **Decimales** | 18 |
-| **Suministro Total** | 1.B $PANGA (DeFi) |
+| **Suministro Total** | 600 $PANGA (DeFi) |
 | **Red de Operación** | Binance Smart Chain (BEP19) |
-| **Contrato Inteligente** | `0x48a4898ead93de535a8e4fdfcf0bef1bc0b84444` |
+| **Contrato Inteligente** | `0x3b5582d477da0a9b9a5d0adbeae262473b201409` |
 
+NOTA: Ya fueron quemados 400 token's PANGA; para dar confianza y valor al proyecto.
+1ra Quema de token's PANGA `0x02fc130e798f0f78d6de7a0558c0d352b7e8d415179b90d77f9499c0f801b1fc`
+2da Quema de token's PANGA
+`0xe16db065f49573403bd4fc9726671156023f80a1a2008ccb51c4d7f09fb04fa3`
 
 ---
 
