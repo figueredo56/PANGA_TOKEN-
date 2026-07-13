@@ -1,28 +1,12 @@
 // SPDX-License-Identifier: MIT
-// OpenZeppelin Contracts (last updated v4.9.4) (utils/Context.sol)
+pragma solidity ^0.8.20;
 
-pragma solidity ^0.8.0;
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
-/**
- * @dev Provides information about the current execution context, including the
- * sender of the transaction and its data. While these are generally available
- * via msg.sender and msg.data, they should not be accessed in such a direct
- * manner, since when dealing with meta-transactions the account sending and
- * paying for execution may not be the actual sender (as far as an application
- * is concerned).
- *
- * This contract is only required for intermediate, library-like contracts.
- */
-abstract contract Context {
-    function _msgSender() internal view virtual returns (address) {
-        return msg.sender;
-    }
-
-    function _msgData() internal view virtual returns (bytes calldata) {
-        return msg.data;
-    }
-
-    function _contextSuffixLength() internal view virtual returns (uint256) {
-        return 0;
-    }
-}
+contract PANGA is ERC20, Ownable {
+    constructor() ERC20("PANGA", "PANGA") Ownable(msg.sender) {
+            // 500 tokens con 18 decimales
+                    _mint(msg.sender, 500 * 10**decimals());
+                        }
+                        }
