@@ -25,9 +25,9 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 | **Nombre Oficial** | PANGA EVOLUTION |
 | **Símbolo de Ticket** | $PANGA |
 | **Decimales** | 18 |
-| **Suministro Total** | 1.B $PANGA (DeFi) |
+| **Suministro Total** | 500 $PANGA (DeFi) |
 | **Red de Operación** | Binance Smart Chain (BEP19) |
-| **Contrato Inteligente** | `0x48a4898Ead93De535A8e4fdFcF0bEF1BC0b84444` |
+| **Contrato Inteligente** | `0x7bE4B8B48eaB24eE4D14B6Be70Bb7563eABc5eC9` |
 
 ---
 
