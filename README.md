@@ -27,7 +27,7 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 | **Decimales** | 18 |
 | **Suministro Total** | 200 $PANGA (DeFi) |
 | **Red de Operación** | Binance Smart Chain (BEP19) |
-| **Contrato Inteligente** | `0x91889367eee4af3855dc974bf586ca1623cee989` |
+| **Contrato Inteligente** | `0xc2dd6979626b4097698853c1727aa23c65b53555` |
 
 ---
 
