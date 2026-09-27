@@ -1,8 +1,10 @@
 <div align="center">
-  <a href="https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/ruta-de-la-imagen/PANGA-logo.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/ruta-de-la-imagen/PANGA-logo.svg" alt="PANGA Token Logo" width="200" height="200"/>
+  <a href="https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg" alt="PANGA Logo" width="220"/>
   </a>
-  <p><em>Haz clic en la imagen para verla en tamaño completo</em></p>
+  <br>
+  <p>🔗 <strong>Enlace directo de la imagen:</strong><br>
+  <a href="https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg" target="_blank">https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg</a></p>
 </div>
 
 # 🐉 PANGA EVOLUTION: The Intelligent Utility Layer
