@@ -1,4 +1,9 @@
-
+<div align="center">
+  <a href="https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/ruta-de-la-imagen/PANGA-logo.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/ruta-de-la-imagen/PANGA-logo.svg" alt="PANGA Token Logo" width="200" height="200"/>
+  </a>
+  <p><em>Haz clic en la imagen para verla en tamaño completo</em></p>
+</div>
 
 # 🐉 PANGA EVOLUTION: The Intelligent Utility Layer
 > **"La convergencia definitiva entre la Inteligencia Artificial y la eficiencia On-Chain. No es solo un token, es el siguiente paso en la evolución de ZAARD INNOVATION."**
@@ -27,7 +32,7 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 | **Decimales** | 18 |
 | **Suministro Total** | 200 $PANGA (DeFi) |
 | **Red de Operación** | Binance Smart Chain (BEP19) |
-| **Contrato Inteligente** | `0x792811a969552217601a0362a2c4c37e1c4c52f6` |
+| **Contrato Inteligente** | `0x53ec44f662075d4771ccd4fefd19b5a3a2c05823` |
 
 ---
 
