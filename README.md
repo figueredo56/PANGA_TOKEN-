@@ -89,7 +89,7 @@ Stay connected with the true source of ZAARD innovation.
 ## 👤 Founder & Lead Developer
 Desarrollado por **Panga** - Founder de ZAARD INNOVATION.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aracelis-figueredo-45284a408?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaard-inovation-45284a408?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
