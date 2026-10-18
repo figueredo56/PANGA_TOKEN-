@@ -83,7 +83,7 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 
 Stay connected with the true source of ZAARD innovation.
 
-* **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/DAIoficial/)
+* **🏠 Official Website:** [ZAARD WEB](https://figueredo56.github.io/DAIoficial/)
 * **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_ALX)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
