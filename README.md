@@ -1,5 +1,5 @@
   <p>🔗 <strong>Enlace directo a BSC:</strong><br>
-  <a href="https://bscscan.com/token/0x6a7cC7d5749E028C8f78f29C1d6aC8EdA0EefAd2#code#F1#L1" target="_blank">https:</a></p>
+  <a href="https://bscscan.com/token/0x6a7cC7d5749E028C8f78f29C1d6aC8EdA0EefAd2#code#F1#L1" target="_blank">BSCscam:</a></p>
 </div>
 <div align="center">
   <a href="https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg" target="_blank">
