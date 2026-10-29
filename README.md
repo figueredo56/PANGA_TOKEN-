@@ -49,7 +49,7 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 
 La arquitectura de nuestro ecosistema no se basa en activos aislados, sino en un sistema de **Simbiosis Financiera**. El intercambio entre PANGA y ZAARD es el mecanismo de balanceo que permite la captura de valor y la mitigación de riesgos sistémicos.
 
-#### 1. Sincronización de Precisión (18 Decimals Engine)
+#### 1. Sincronización de Precisión (18 Decimals Engine) 
 A diferencia de los tokens estándar de la red BSC que operan con 18 decimales, tanto **PANGA** como **ZAARD** han sido programados con **18 decimales**. 
 * **Ventaja Técnica:** Esta paridad decimal elimina errores de redondeo y discrepancias en el cálculo de fracciones durante los swaps de alto volumen.
 * **Eficiencia:** Permite una ejecución de órdenes más limpia en los pools de liquidez internos, asegurando que el valor transferido sea exacto hasta la última unidad mínima.
