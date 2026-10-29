@@ -73,6 +73,54 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 > **Dictamen de la Lead Developer:** *"El intercambio PANGA ↔️ ZAARD es el latido del corazón de nuestra economía. Quien domina este puente, domina la fuerza del ecosistema."*
 
 ---
+# 🔥 PANGA Ecosystem - Live Analytics & Smart Contracts
+
+> Repositorio oficial del ecosistema descentralizado **PANGA**, que incluye paneles en tiempo real, rastreo de órdenes, contratos inteligentes inmutables y herramientas de intercambio directo en la red BNB Smart Chain (BSC).
+
+---
+
+## 💎 Información del Contrato Oficial
+
+*   **PANGA / BNB (BEP-20):** `0x4a6c3ea9e7132ad217c31f8252119f08c801366e`
+
+---
+
+## 🚀 Módulos & Componentes Incluidos
+
+### 1. Rastreo en Vivo (Analytics & Charts)
+*   Monitoreo en tiempo real de gráficos de velas y libros de órdenes (Order Books) mediante widgets embebidos de **DexScreener**.
+*   Enlaces directos de analítica avanzada con **Binance Web3** y exploradores de bloques oficiales (**BscScan**).
+
+### 2. Intercambio Descentralizado (PancakeSwap AMM)
+*   Enrutamiento optimizado para la conversión instantánea de **BNB ➔ PANGA** bajo los pools de liquidez V2/V3 de PancakeSwap, garantizando un slippage controlado y cero comisiones ocultas.
+
+### 3. Gobernanza Inmutable & Verificación de Seguridad
+*   Registro criptográfico oficial que avala la renuncia de privilegios de administrador (**Ownership Renounced**).
+*   **TX Hash de Renuncia:** `0x0c035b3e1f243f9ca3762f8adc20b81316a61ca3f6bd4a68c0ac05cb9fba4431`
+*   Validaciones de contratos y firmas auditadas bajo estándares institucionales.
+
+---
+
+## 🌐 Accesos Directos & Enlaces de Interés
+
+*   **PANGA / Binance Web3:** [Analizar Token en Binance](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x4a6c3ea9e7132ad217c31f8252119f08c801366e&binanceChainId=56&chain=bsc)
+*   **PANGA / DexScreener:** [Ver Gráfico en Vivo](https://dexscreener.com/bsc/0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+*   **Swap Directo PANGA:** [Intercambiar en PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+*   **Auditoría de Renuncia:** [Verificar en BscScan](https://bscscan.com/tx/0x0c035b3e1f243f9ca3762f8adc20b81316a61ca3f6bd4a68c0ac05cb9fba4431)
+*   **Verificación de Firma:** [Verificar Firma](https://etherscan.io/verifySig/340800)
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+*   **HTML5 / CSS3** (Diseño responsivo con contenedores adaptativos y efectos visuales de iluminación CSS).
+*   **JavaScript / Responsive Flexbox & Grid** para la disposición de paneles y tarjetas interactivas.
+*   **BEP-20 Smart Contracts** en la red de **BNB Smart Chain (BSC)**.
+
+---
+*Desarrollado con altos estándares de calidad técnica para la comunidad de PANGA.*
+
+---
 
 ### 🛠️ Ecosistema Activo: PANGA en la Web3
 
