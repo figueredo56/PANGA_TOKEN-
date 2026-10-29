@@ -13,13 +13,7 @@
 # 🐉 PANGA EVOLUTION: The Intelligent Utility Layer
 > **"La convergencia definitiva entre la Inteligencia Artificial y la eficiencia On-Chain. No es solo un token, es el siguiente paso en la evolución de ZAARD INNOVATION."**
 
-<div align="center">
-  <a href="https://etherscan.io/verifySig/340349" target="_blank">
-    <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1792381662343-f6936e841ddbc8fba57af3522f9c2c5b.png" alt="PANGA 100% Verificado" width="300">
-  </a>
-  <br>
-  <h3><a href="https://etherscan.io/verifySig/340349" target="_blank">✅ PANGA 100% Verificado</a></h3>
-</div>
+
 
 ## 🌌 Visión General y Propósito
 **PANGA EVOLUTION ($PANGA)** nace como la respuesta técnica a la necesidad de un activo de alta velocidad y utilidad real dentro del ecosistema **ZAARD**. Mientras que ZAARD se consolida como el pilar de reserva de valor y ahorro a largo plazo, **PANGA** ha sido diseñado para ser el motor de la economía activa.
@@ -44,7 +38,7 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 | **Decimales** | 18 |
 | **Suministro Total** | 1000000 $PANGA (DeFi) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
-| **Contrato Inteligente** | `0x6a7cc7d5749e028c8f78f29c1d6ac8eda0eefad2` |
+| **Contrato Inteligente** | `0x4a6c3ea9e7132ad217c31f8252119f08c801366e` |
 
 ---
 
@@ -91,7 +85,7 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 Stay connected with the true source of ZAARD innovation.
 
 * **🏠 Official Website:** [ZAARD WEB](https://figueredo56.github.io/DAIoficial/)
-* **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_ALX)
+* **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
 Desarrollado por **Panga** - Founder de ZAARD INNOVATION.
