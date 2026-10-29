@@ -121,6 +121,41 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 *Desarrollado con altos estándares de calidad técnica para la comunidad de PANGA.*
 
 ---
+<!-- ======================================================= -->
+<!-- BLOQUE: IMAGEN OFICIAL CON EFECTO DE TITILEO - PANGA    -->
+<!-- ======================================================= -->
+<div style="margin: 20px 0; display: flex; justify-content: center; width: 100%;">
+    <div style="position: relative; width: 160px; height: 210px; border-radius: 12px; overflow: hidden; border: 3px solid #f3ba2f; box-shadow: 0 0 25px rgba(243, 186, 47, 0.6); background: rgba(0,0,0,0.8);">
+        <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1793303864553-8a9c919866f68052ba6398cfd4d9e374.png" 
+             alt="PANGA Security & Verification Logo" 
+             class="panga-glow-img"
+             style="width: 100%; height: 100%; object-fit: cover; display: block;">
+    </div>
+</div>
+
+<style>
+    @keyframes pangaGlowPulse {
+        0% {
+            transform: scale(1);
+            box-shadow: 0 0 15px rgba(243, 186, 47, 0.4);
+            filter: brightness(1);
+        }
+        50% {
+            transform: scale(1.04);
+            box-shadow: 0 0 35px rgba(243, 186, 47, 0.9);
+            filter: brightness(1.2);
+        }
+        100% {
+            transform: scale(1);
+            box-shadow: 0 0 15px rgba(243, 186, 47, 0.4);
+            filter: brightness(1);
+        }
+    }
+
+    .panga-glow-img {
+        animation: pangaGlowPulse 3s infinite ease-in-out;
+    }
+</style>
 
 ### 🛠️ Ecosistema Activo: PANGA en la Web3
 
