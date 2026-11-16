@@ -1,5 +1,6 @@
+<div align="center">
   <p>🔗 <strong>Enlace directo a BSC:</strong><br>
-  <a href="https://bscscan.com/token/0x6a7cC7d5749E028C8f78f29C1d6aC8EdA0EefAd2#code#F1#L1" target="_blank">BSCscam:</a></p>
+  <a href="https://bscscan.com/token/0x4a6c3ea9e7132ad217c31f8252119f08c801366e#code" target="_blank">BscScan (PANGA):</a></p>
 </div>
 <div align="center">
   <a href="https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/c190b4e5d2bf3bf7d9347891a7a7698e4b69cd94/296-sin-t%C3%ADtulo_20260926210031%20(1).svg" target="_blank">
@@ -12,8 +13,6 @@
 
 # 🐉 PANGA EVOLUTION: The Intelligent Utility Layer
 > **"La convergencia definitiva entre la Inteligencia Artificial y la eficiencia On-Chain. No es solo un token, es el siguiente paso en la evolución de ZAARD INNOVATION."**
-
-
 
 ## 🌌 Visión General y Propósito
 **PANGA EVOLUTION ($PANGA)** nace como la respuesta técnica a la necesidad de un activo de alta velocidad y utilidad real dentro del ecosistema **ZAARD**. Mientras que ZAARD se consolida como el pilar de reserva de valor y ahorro a largo plazo, **PANGA** ha sido diseñado para ser el motor de la economía activa.
@@ -30,16 +29,16 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 
 ---
 
-
 ### 💎 Tokenomics y Especificaciones de Red
 | Atributo | Valor Técnico |
 | :--- | :--- |
 | **Nombre Oficial** | PANGA EVOLUTION |
-| **Símbolo de Ticket** | $PANGA |
+| **Símbolo de Ticket** | `$PANGA` |
 | **Decimales** | 18 |
-| **Suministro Total** | 1000000 $PANGA (DeFi) |
+| **Suministro Total** | 1,000,000 `$PANGA` (DeFi) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
-| **Contrato Inteligente** | `0x4a6c3ea9e7132ad217c31f8252119f08c801366e` |
+| **Contrato Inteligente PANGA** | `0x4a6c3ea9e7132ad217c31f8252119f08c801366e` |
+| **Contrato Inteligente ZARD (Motor Ancla)** | `0xE2879d1172215E728472D7827586bd2796aFA3fB` |
 
 ---
 ![ZAARD INNOVATION Ecosystem](https://photos.pinksale.finance/file/pinksale-logo-upload/1793580450953-6f185aa92d9ef625377310eff59ba2ab.png)
@@ -50,13 +49,12 @@ Para entender la profundidad de PANGA, es vital analizar nuestra arquitectura:
 
 El ecosistema **ZAARD INNOVATION** está diseñado con una arquitectura financiera orgánica donde **ZARD** y **PANGA** trabajan de manera sinérgica para maximizar la rentabilidad y proteger el capital de la comunidad:
 
-* **Sinergia Orgánica de Ingresos:** Ambos tokens operan de forma complementaria para generar liquidez y estabilidad en el mercado.
-* **Estrategia de Ciclos (ZARD / PANGA):** 
+- **Sinergia Orgánica de Ingresos:** Ambos tokens operan de forma complementaria para generar liquidez y estabilidad en el mercado.
+- **Estrategia de Ciclos (ZARD / PANGA):** 
   * Cuando **PANGA** presente un punto de entrada estratégico o corrección, puedes retirar o tomar ganancias de **ZARD** para inyectar liquidez directa a **PANGA**.
   * Al consolidar y tomar ganancias en **PANGA** tras su subida, puedes reintegrar el capital hacia **ZARD**, cerrando un ciclo continuo de preservación y crecimiento de valor dentro del ecosistema.
 
 ---
-
 
 ## 🛡️ Perfil de ZAARD_ALX
 
@@ -64,17 +62,17 @@ El ecosistema **ZAARD INNOVATION** está diseñado con una arquitectura financie
 <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794442537930-136ad239342b403669d61407099f23ed.png" alt="ZAARD XENOCRYPT" width="140" align="left" style="margin-right: 15px;" />
 
 **Rango:** *Comandante Supremo & Arquitecto del Protocolo*  
-**ZAARD XENOCRYPT** representa el núcleo tecnológico, la firma de ingeniería criptográfica y la autoridad maestra detrás de todo el ecosistema. Como sello de innovación y desarrollo Web3, garantiza que cada contrato inteligente sea diseñado bajo estándares inmutables, auditoría rigurosa y protección absoluta contra vulnerabilidades, estableciendo la visión estratégica y la gobernanza central de $ZYM.
+**ZAARD XENOCRYPT** representa el núcleo tecnológico, la firma de ingeniería criptográfica y la autoridad maestra detrás de todo el ecosistema. Como sello de innovación y desarrollo Web3, garantiza que cada contrato inteligente sea diseñado bajo estándares inmutables, auditoría rigurosa y protección absoluta contra vulnerabilidades, estableciendo la visión estratégica y la gobernanza central de `$ZARD`.
 <br clear="left"/>
 
 ---
 
 ## 🔀 Accesos Directos de Intercambio en PancakeSwap
 
-Haz clic en los siguientes botones oficiales para ejecutar tus operaciones de swap directamente en BNB Smart Chain:
+Haz clic en los siguientes botones oficiales para ejecutar tus operaciones de swap directamente en BNB Smart Chain (actualizados con el nuevo contrato de `$ZARD`):
 
-### 🟡 Swap de BNB a ZARD
-[![Swap BNB a ZARD](https://img.shields.io/badge/PancakeSwap-Comprar%20ZARD%20con%20BNB-F3BA2F?style=for-the-badge&logo=pancakeswap&logoColor=black)](https://pancakeswap.finance/swap?outputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
+### 🟡 Swap de BNB a ZARD (Nuevo Contrato)
+[![Swap BNB a ZARD](https://img.shields.io/badge/PancakeSwap-Comprar%20ZARD%20con%20BNB-F3BA2F?style=for-the-badge&logo=pancakeswap&logoColor=black)](https://pancakeswap.finance/swap?outputCurrency=0xE2879d1172215E728472D7827586bd2796aFA3fB)
 
 ---
 
@@ -83,8 +81,8 @@ Haz clic en los siguientes botones oficiales para ejecutar tus operaciones de sw
 
 ---
 
-### 🟣 Swap Directo ZARD ↔ PANGA (Rotación de Liquidez)
-[![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
+### 🟣 Swap Directo ZARD ↔ PANGA (Rotación de Liquidez Actualizada)
+[![Rotar ZARD a PANGA](https://img.shields.io/badge/PancakeSwap-Rotar%20ZARD%20a%20PANGA-6366F1?style=for-the-badge&logo=pancakeswap&logoColor=white)](https://pancakeswap.finance/swap?inputCurrency=0xE2879d1172215E728472D7827586bd2796aFA3fB&outputCurrency=0x4a6c3ea9e7132ad217c31f8252119f08c801366e)
 
 ---
 
@@ -95,24 +93,24 @@ La arquitectura de nuestro ecosistema no se basa en activos aislados, sino en un
 
 #### 1. Sincronización de Precisión (18 Decimals Engine) 
 A diferencia de los tokens estándar de la red BSC que operan con 18 decimales, tanto **PANGA** como **ZAARD** han sido programados con **18 decimales**. 
-* **Ventaja Técnica:** Esta paridad decimal elimina errores de redondeo y discrepancias en el cálculo de fracciones durante los swaps de alto volumen.
-* **Eficiencia:** Permite una ejecución de órdenes más limpia en los pools de liquidez internos, asegurando que el valor transferido sea exacto hasta la última unidad mínima.
+- **Ventaja Técnica:** Esta paridad decimal elimina errores de redondeo y discrepancias en el cálculo de fracciones durante los swaps de alto volumen.
+- **Eficiencia:** Permite una ejecución de órdenes más limpia en los pools de liquidez internos, asegurando que el valor transferido sea exacto hasta la última unidad mínima.
 
 #### 2. Ciclo de Inyección de Fuerza (ZAARD → PANGA)
 Este movimiento representa la **Fase de Expansión**. 
-* Al mover capital desde ZAARD (el activo ancla) hacia PANGA (el activo místico), el usuario está activando el multiplicador de riqueza. 
-* **Estrategia:** Se utiliza ZAARD, cuya liquidez está blindada al 77.6% en Mudra, para adquirir PANGA en puntos de acumulación. Esto inyecta presión de compra orgánica en el motor de crecimiento sin depender de capital externo volátil.
+- Al mover capital desde ZAARD (el activo ancla) hacia PANGA (el activo místico), el usuario está activando el multiplicador de riqueza. 
+- **Estrategia:** Se utiliza ZAARD, cuya liquidez está blindada, para adquirir PANGA en puntos de acumulación. Esto inyecta presión de compra orgánica en el motor de crecimiento sin depender de capital externo volátil.
 
 #### 3. Ciclo de Consolidación de Riqueza (PANGA → ZAARD)
 Este movimiento representa la **Fase de Blindaje**. 
-* Tras una quema masiva de tokens o un rally impulsado por la utilidad en el ZAARD Arcade, el valor excedente en PANGA debe ser "anclado".
-* **El Mecanismo:** Al convertir el 80% de las ganancias de PANGA a ZAARD, el inversor transfiere valor desde un entorno de alta volatilidad hacia una "Caja Fuerte de Liquidez". 
-* **Resultado:** Se crea un **Suelo de Precio Ascendente**. A medida que más usuarios consolidan ganancias en ZAARD, la liquidez total del ecosistema se fortalece, protegiendo a la comunidad de las fluctuaciones de BNB o ETH.
+- Tras una quema masiva de tokens o un rally impulsado por la utilidad en el ZAARD Arcade, el valor excedente en PANGA debe ser "anclado".
+- **El Mecanismo:** Al convertir el 80% de las ganancias de PANGA a ZAARD, el inversor transfiere valor desde un entorno de alta volatilidad hacia una "Caja Fuerte de Liquidez". 
+- **Resultado:** Se crea un **Suelo de Precio Ascendente**. A medida que más usuarios consolidan ganancias en ZAARD, la liquidez total del ecosistema se fortalece.
 
 #### 4. El Algoritmo de Rotación de Activos (ARA)
 El intercambio no es solo una función técnica, es una herramienta de arbitraje interno:
-* **Escudo de Mercado:** En momentos de caída global de las criptomonedas, el intercambio hacia ZAARD protege el poder adquisitivo.
-* **Reentrada Automática:** Las ganancias protegidas en ZAARD permiten una reentrada agresiva en PANGA cuando los indicadores de escasez (burns) señalan un nuevo ciclo alcista.
+- **Escudo de Mercado:** En momentos de caída global de las criptomonedas, el intercambio hacia ZAARD protege el poder adquisitivo.
+- **Reentrada Automática:** Las ganancias protegidas en ZAARD permiten una reentrada agresiva en PANGA cuando los indicadores de escasez señalan un nuevo ciclo alcista.
 
 > **Dictamen de la Lead Developer:** *"El intercambio PANGA ↔️ ZAARD es el latido del corazón de nuestra economía. Quien domina este puente, domina la fuerza del ecosistema."*
 
@@ -126,6 +124,7 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 ## 💎 Información del Contrato Oficial
 
 *   **PANGA / BNB (BEP-20):** `0x4a6c3ea9e7132ad217c31f8252119f08c801366e`
+*   **ZARD / BNB (BEP-20 Official):** `0xE2879d1172215E728472D7827586bd2796aFA3fB`
 
 ---
 
@@ -136,11 +135,11 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 *   Enlaces directos de analítica avanzada con **Binance Web3** y exploradores de bloques oficiales (**BscScan**).
 
 ### 2. Intercambio Descentralizado (PancakeSwap AMM)
-*   Enrutamiento optimizado para la conversión instantánea de **BNB ➔ PANGA** bajo los pools de liquidez V2/V3 de PancakeSwap, garantizando un slippage controlado y cero comisiones ocultas.
+*   Enrutamiento optimizado para la conversión instantánea de **BNB ➔ PANGA** y **ZARD ➔ PANGA** bajo los pools de liquidez V2/V3 de PancakeSwap.
 
 ### 3. Gobernanza Inmutable & Verificación de Seguridad
 *   Registro criptográfico oficial que avala la renuncia de privilegios de administrador (**Ownership Renounced**).
-*   **TX Hash de Renuncia:** `0x0c035b3e1f243f9ca3762f8adc20b81316a61ca3f6bd4a68c0ac05cb9fba4431`
+*   **TX Hash de Renuncia (PANGA):** `0x0c035b3e1f243f9ca3762f8adc20b81316a61ca3f6bd4a68c0ac05cb9fba4431`
 *   Validaciones de contratos y firmas auditadas bajo estándares institucionales.
 
 ---
@@ -203,17 +202,18 @@ El intercambio no es solo una función técnica, es una herramienta de arbitraje
 
 ### 🛠️ Ecosistema Activo: PANGA en la Web3
 
-[![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/refs/heads/main/CC_20260630_131234.png)
+[![PANGA Evolution](https://raw.githubusercontent.com/figueredo56/PANGA_TOKEN-/refs/heads/main/CC_20260630_131234.png)](https://figueredo56.github.io/DAIoficial/)
 
 ---
--
+
 ## 🌐 Our Official Digital Presence
 
 Stay connected with the true source of ZAARD innovation.
 
-* **🏠 Official Website:** [ZAARD WEB](https://figueredo56.github.io/DAIoficial/)
-* **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
-* **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
+- **🏠 Official Website:** [ZAARD WEB](https://figueredo56.github.io/DAIoficial/)
+- **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
+- **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
+
 ## 👤 Founder & Lead Developer
 Desarrollado por **Panga** - Founder de ZAARD INNOVATION.
 
